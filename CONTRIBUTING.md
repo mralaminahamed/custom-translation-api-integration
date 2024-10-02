@@ -22,14 +22,14 @@ First off, thank you for considering contributing to Custom Translation API Inte
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [your@email.com].
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [me@alaminahamed.com].
 
 ## Getting Started
 
 ### Issues
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/yourusername/custom-translation-api-integration/issues).
-- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/yourusername/custom-translation-api-integration/issues/new).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/mralaminahamed/custom-translation-api-integration/issues).
+- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/mralaminahamed/custom-translation-api-integration/issues/new).
 - Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
 
 ### Pull Requests
@@ -45,7 +45,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 
 To set up your development environment:
 
-1. Clone the repository: `git clone https://github.com/yourusername/custom-translation-api-integration.git`
+1. Clone the repository: `git clone https://github.com/mralaminahamed/custom-translation-api-integration.git`
 2. Set up a local WordPress installation (we recommend using [Local by Flywheel](https://localwp.com/))
 3. Symlink or copy the plugin folder into your local WordPress' `wp-content/plugins/` directory
 4. Activate the plugin in your WordPress admin panel
