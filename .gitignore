@@ -1,0 +1,58 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.vscode/
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Ignore node dependency directories
+node_modules/
+
+# Ignore composer dependencies
+vendor/
+
+# Ignore build directories
+/dist
+/build
+
+# Ignore WordPress core files (in case the plugin is developed inside a WP install)
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+
+# Ignore wp-content directory (except our plugin)
+/wp-content/*
+!/wp-content/plugins/
+/wp-content/plugins/*
+!/wp-content/plugins/custom-translation-api-integration/
+
+# Ignore other specific files
+wp-config.php
